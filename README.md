@@ -44,5 +44,5 @@ h2.set_state(saved_state)
 ## Testing
 
 ```bash
-python -m unittest lthash_test.py
+python -m unittest tests/lthash_test.py
 ```

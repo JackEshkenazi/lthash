@@ -1,5 +1,5 @@
 import unittest
-from lthash import new16
+from lthash.core import new16
 
 class TestLtHash(unittest.TestCase):
     def test_collision(self):
